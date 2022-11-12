@@ -1,0 +1,51 @@
+Acapulco
+Aguascalientes
+Campeche
+Cancún
+Ciudad Cuauhtemoc
+Ciudad Juárez
+Ciudad Victoria
+Colima
+Cuernavaca
+Culiacán
+Chetumal
+Chilpancingo
+Chihuahua
+Durango
+Ensenada
+Guadalajara
+Guanajuato
+Hermosillo
+La Paz
+León
+Manzanillo
+Matamoros
+Mazatlán
+Mérida
+Mexicali
+México
+Morelia
+Monterrey
+Nogales
+Nuevo Laredo
+Oaxaca
+Pachuca
+Piedras Negras
+Puebla
+Querétaro
+Reynosa
+Salina Cruz
+Saltillo
+San Luis Potosí
+Tampico
+Tapachula
+Tepic
+Tijuana
+Tlaxcala
+Toluca
+Torreón
+Tuxtla Gutiérrez
+Veracruz
+Villahermosa
+Xalapa
+Zacatecas
