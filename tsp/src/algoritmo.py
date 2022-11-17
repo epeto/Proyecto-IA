@@ -121,16 +121,16 @@ def convierteNumPueblo(tour, pueblos):
 
 ## Método principal
 def main():
-    total = leeEjemplar("pueblos")
+    total = leeEjemplar("input/pueblos")
     print("Ingrese el nombre del ejemplar")
     nomEj = input()
-    ejemplar = leeEjemplar(nomEj)
+    ejemplar = leeEjemplar("input/"+nomEj)
     ejNum = transformaEjemplar(ejemplar, total)
     puebloIni = ejNum[0]
     puebloFin = ejNum[len(ejNum)-1]
     del ejNum[len(ejNum)-1]
     del ejNum[0]
-    matDist = construyeMatriz("matriz_distancias.csv")
+    matDist = construyeMatriz("input/matriz_distancias.csv")
     print("Ingrese el número de iteraciones a realizar.")
     iteraciones = int(input())
     mejorTour = permutacion(ejNum.copy())
