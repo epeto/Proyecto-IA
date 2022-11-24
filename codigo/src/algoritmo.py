@@ -1,4 +1,5 @@
-## Aplicación de hillclimber estocástico a el problema del agente viajero.
+
+## Aplicación de hillclimber con reinicio aleatorio al problema del agente viajero.
 
 import random
 
